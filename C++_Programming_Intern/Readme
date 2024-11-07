@@ -1,1 +1,25 @@
 
+# ATM Interface in C++
+
+This project implements a simple ATM interface using C++. The program allows users to check their account balance, withdraw money, and deposit funds. It simulates a basic ATM system with user authentication via username and PIN.
+
+## Features
+
+- User authentication with username and PIN.
+- Check account balance.
+- Withdraw money with balance validation.
+- Deposit money into the account.
+- Simple text-based menu interface.
+
+## Requirements
+
+To run this project, you need:
+
+- A C++ compiler (e.g., g++).
+- Visual Studio Code or any other IDE of your choice.
+
+## Installation
+
+1. **Clone the repository** or download the source code files.
+   ```bash
+   git clone <repository-url>
