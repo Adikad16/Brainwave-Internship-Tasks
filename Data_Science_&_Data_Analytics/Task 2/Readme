@@ -1,0 +1,27 @@
+# Reddit Sentiment Analysis
+
+## Overview
+This project analyzes sentiment from Reddit posts using natural language processing (NLP) techniques. The goal is to understand public sentiment towards specific topics, products, or events by extracting sentiment scores and visualizing trends over time.
+
+## Features
+- Fetches data from specified subreddits.
+- Cleans and preprocesses text data.
+- Analyzes sentiment using VADER sentiment analysis.
+- Categorizes sentiments into "Very Positive," "Positive," "Neutral," "Negative," and "Very Negative."
+- Visualizes sentiment trends over time with various plots.
+
+## Technologies Used
+- Python
+- Jupyter Notebook
+- Pandas
+- NLTK (Natural Language Toolkit)
+- PRAW (Python Reddit API Wrapper)
+- Matplotlib
+- Seaborn
+
+## Installation
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/Adikad16/reddit-sentiment-analysis.git
+   cd reddit-sentiment-analysis
