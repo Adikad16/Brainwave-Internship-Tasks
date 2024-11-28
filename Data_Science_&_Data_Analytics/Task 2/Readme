@@ -19,9 +19,4 @@ This project analyzes sentiment from Reddit posts using natural language process
 - Matplotlib
 - Seaborn
 
-## Installation
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/Adikad16/Data_Science_&_Data_Analytics/Task2/Reddit.ipynb
-   cd reddit-sentiment-analysis
